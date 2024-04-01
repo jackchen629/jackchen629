@@ -2,8 +2,10 @@
 <img src="Header.svg" />
 </p>
 
+
+
 # 💫 About Me:
-Hi, I'm JackChen 😉 **Developer** and **Programmer** .
+Hi, I'm Jack 😉 **Developer** and **Programmer** .
 I'm an detail-oriented frontend developer, and I like to develop in JavaScript.
 I am passionate about **React**, **Angular**, **Vue**, **TailWnd CSS**, **Node.js** and **Micro Frontend**.
 Currently, I'm looking to collaborate on open-source projects.
